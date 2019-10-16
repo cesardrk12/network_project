@@ -10,7 +10,7 @@
 	
 	<body>
 	
-	<p> Olá, eu sou cesar henrique aluno do ifba, tumra 441</p><br>
+	<p> Olá, eu sou cesar henrique aluno do ifba, turma 441</p><br>
 	<p> Sejam Bem Vindos</p>
 	
 	</body>
