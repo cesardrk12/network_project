@@ -11,6 +11,6 @@
 	<body>
 	
 	<h1>Sejam Bem vindos</h1><br>
-	<h2> Porjeto de Redes IFBA</h2>
+	<h2> Porjeto de Redes IFBA2</h2>
 	
 	</body>
