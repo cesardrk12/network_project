@@ -10,7 +10,7 @@
 	
 	<body>
 	
-	<p> Olá, eu sou cesar henrique aluno do ifba, turma 441</p><br>
-	<p> Sejam Bem Vindo</p>
+	<h1>Sejam Bem vindos</h1><br>
+	<h2> Porjeto de Redes IFBA</h2>
 	
 	</body>
